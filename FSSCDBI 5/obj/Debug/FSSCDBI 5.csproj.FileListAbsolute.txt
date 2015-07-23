@@ -10,3 +10,6 @@ c:\users\user\documents\visual studio 2013\Projects\FSSCDBI 5\FSSCDBI 5\bin\Debu
 c:\users\user\documents\visual studio 2013\Projects\FSSCDBI 5\FSSCDBI 5\obj\Debug\FSSCDBI 5.csprojResolveAssemblyReference.cache
 c:\users\user\documents\visual studio 2013\Projects\FSSCDBI 5\FSSCDBI 5\obj\Debug\FSSCDBI 5.exe
 c:\users\user\documents\visual studio 2013\Projects\FSSCDBI 5\FSSCDBI 5\obj\Debug\FSSCDBI 5.pdb
+C:\Users\colet\Source\Repos\FSS_CDBI\FSSCDBI 5\bin\Debug\FSSCDBI 5.exe.config
+C:\Users\colet\Source\Repos\FSS_CDBI\FSSCDBI 5\obj\Debug\FSSCDBI 5.exe
+C:\Users\colet\Source\Repos\FSS_CDBI\FSSCDBI 5\obj\Debug\FSSCDBI 5.pdb

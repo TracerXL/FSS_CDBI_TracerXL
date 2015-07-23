@@ -1,0 +1,909 @@
+Site Count = 1198
+0d2bc00c-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0d2bc00c-e908-11e4-85ee-001e6733fe3c Mbankolo Camtel~Site Importing 
+0d2bc00c-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0d2bc00c-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0d2bc00c-e908-11e4-85ee-001e6733fe3c General Data Recieved 34
+0d2bc00c-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0d2bc00c-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 3
+0d2bc00c-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 23
+0d2bc00c-e908-11e4-85ee-001e6733fe3c Element Data Recieved 46
+0d2bc00c-e908-11e4-85ee-001e6733fe3c Material Data Recieved 49
+0d2bc00c-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 172
+0d2bc00c-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0d2bc00c-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 173
+0d2bc00c-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0d2d55e8-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0d2d55e8-e908-11e4-85ee-001e6733fe3c Mbankolo Camtel~Tower Importing 
+0d2d55e8-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0d2d55e8-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0d2d55e8-e908-11e4-85ee-001e6733fe3c General Data Recieved 0
+0d2d55e8-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0d2d55e8-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 1
+0d2d55e8-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 9
+0d2d55e8-e908-11e4-85ee-001e6733fe3c Element Data Recieved 12
+0d2d55e8-e908-11e4-85ee-001e6733fe3c Material Data Recieved 24
+0d2d55e8-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 235
+0d2d55e8-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0d2d55e8-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 57
+0d2d55e8-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0d1981d0-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0d1981d0-e908-11e4-85ee-001e6733fe3c Mbanga Camtel~Site Importing 
+0d1981d0-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0d1981d0-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0d1981d0-e908-11e4-85ee-001e6733fe3c General Data Recieved 34
+0d1981d0-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0d1981d0-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 4
+0d1981d0-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 26
+0d1981d0-e908-11e4-85ee-001e6733fe3c Element Data Recieved 56
+0d1981d0-e908-11e4-85ee-001e6733fe3c Material Data Recieved 36
+0d1981d0-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 166
+0d1981d0-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0d1981d0-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 159
+0d1981d0-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0d1b6dd8-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0d1b6dd8-e908-11e4-85ee-001e6733fe3c Mbanga Camtel~Tower Importing 
+0d1b6dd8-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0d1b6dd8-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0d1b6dd8-e908-11e4-85ee-001e6733fe3c General Data Recieved 0
+0d1b6dd8-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0d1b6dd8-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 1
+0d1b6dd8-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 6
+0d1b6dd8-e908-11e4-85ee-001e6733fe3c Element Data Recieved 8
+0d1b6dd8-e908-11e4-85ee-001e6733fe3c Material Data Recieved 15
+0d1b6dd8-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 136
+0d1b6dd8-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0d1b6dd8-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 65
+0d1b6dd8-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0e755bd0-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0e755bd0-e908-11e4-85ee-001e6733fe3c Nkongsamba Camtel~Site Importing 
+0e755bd0-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0e755bd0-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0e755bd0-e908-11e4-85ee-001e6733fe3c General Data Recieved 34
+0e755bd0-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0e755bd0-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 3
+0e755bd0-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 20
+0e755bd0-e908-11e4-85ee-001e6733fe3c Element Data Recieved 38
+0e755bd0-e908-11e4-85ee-001e6733fe3c Material Data Recieved 19
+0e755bd0-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 107
+0e755bd0-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0e755bd0-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 71
+0e755bd0-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0e76ef22-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0e76ef22-e908-11e4-85ee-001e6733fe3c Nkongsamba Camtel~Tower Importing 
+0e76ef22-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0e76ef22-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0e76ef22-e908-11e4-85ee-001e6733fe3c General Data Recieved 0
+0e76ef22-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0e76ef22-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 1
+0e76ef22-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 7
+0e76ef22-e908-11e4-85ee-001e6733fe3c Element Data Recieved 9
+0e76ef22-e908-11e4-85ee-001e6733fe3c Material Data Recieved 14
+0e76ef22-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 120
+0e76ef22-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0e76ef22-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 40
+0e76ef22-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0a57e234-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0a57e234-e908-11e4-85ee-001e6733fe3c Bonaberi Warehouse~Site Importing 
+0a57e234-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0a57e234-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0a57e234-e908-11e4-85ee-001e6733fe3c General Data Recieved 34
+0a57e234-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0a57e234-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 4
+0a57e234-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 26
+0a57e234-e908-11e4-85ee-001e6733fe3c Element Data Recieved 51
+0a57e234-e908-11e4-85ee-001e6733fe3c Material Data Recieved 34
+0a57e234-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 157
+0a57e234-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0a57e234-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 57
+0a57e234-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0a596ac8-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0a596ac8-e908-11e4-85ee-001e6733fe3c Bonaberi Warehouse~Tower Importing 
+0a596ac8-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0a596ac8-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0a596ac8-e908-11e4-85ee-001e6733fe3c General Data Recieved 0
+0a596ac8-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0a596ac8-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 1
+0a596ac8-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 9
+0a596ac8-e908-11e4-85ee-001e6733fe3c Element Data Recieved 12
+0a596ac8-e908-11e4-85ee-001e6733fe3c Material Data Recieved 23
+0a596ac8-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 241
+0a596ac8-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0a596ac8-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 109
+0a596ac8-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0dc2739e-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0dc2739e-e908-11e4-85ee-001e6733fe3c Ndogbong~Site Importing 
+0dc2739e-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0dc2739e-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0dc2739e-e908-11e4-85ee-001e6733fe3c General Data Recieved 34
+0dc2739e-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0dc2739e-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 4
+0dc2739e-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 28
+0dc2739e-e908-11e4-85ee-001e6733fe3c Element Data Recieved 58
+0dc2739e-e908-11e4-85ee-001e6733fe3c Material Data Recieved 72
+0dc2739e-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 236
+0dc2739e-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0dc2739e-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 314
+0dc2739e-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0dc3d734-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0dc3d734-e908-11e4-85ee-001e6733fe3c Ndogbong~Tower Importing 
+0dc3d734-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0dc3d734-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0dc3d734-e908-11e4-85ee-001e6733fe3c General Data Recieved 0
+0dc3d734-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0dc3d734-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 1
+0dc3d734-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 9
+0dc3d734-e908-11e4-85ee-001e6733fe3c Element Data Recieved 13
+0dc3d734-e908-11e4-85ee-001e6733fe3c Material Data Recieved 64
+0dc3d734-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 548
+0dc3d734-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0dc3d734-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 165
+0dc3d734-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0b0290ee-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0b0290ee-e908-11e4-85ee-001e6733fe3c Cite Bassa~Site Importing 
+0b0290ee-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0b0290ee-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0b0290ee-e908-11e4-85ee-001e6733fe3c General Data Recieved 34
+0b0290ee-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0b0290ee-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 4
+0b0290ee-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 27
+0b0290ee-e908-11e4-85ee-001e6733fe3c Element Data Recieved 53
+0b0290ee-e908-11e4-85ee-001e6733fe3c Material Data Recieved 55
+0b0290ee-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 209
+0b0290ee-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0b0290ee-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 196
+0b0290ee-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0b043278-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0b043278-e908-11e4-85ee-001e6733fe3c Cite Bassa~Tower Importing 
+0b043278-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0b043278-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0b043278-e908-11e4-85ee-001e6733fe3c General Data Recieved 0
+0b043278-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0b043278-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 1
+0b043278-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 8
+0b043278-e908-11e4-85ee-001e6733fe3c Element Data Recieved 12
+0b043278-e908-11e4-85ee-001e6733fe3c Material Data Recieved 42
+0b043278-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 384
+0b043278-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0b043278-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 84
+0b043278-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0e4a7316-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0e4a7316-e908-11e4-85ee-001e6733fe3c Njonjo~Site Importing 
+0e4a7316-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0e4a7316-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0e4a7316-e908-11e4-85ee-001e6733fe3c General Data Recieved 34
+0e4a7316-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0e4a7316-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 4
+0e4a7316-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 26
+0e4a7316-e908-11e4-85ee-001e6733fe3c Element Data Recieved 52
+0e4a7316-e908-11e4-85ee-001e6733fe3c Material Data Recieved 52
+0e4a7316-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 198
+0e4a7316-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0e4a7316-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 91
+0e4a7316-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0e4bec50-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0e4bec50-e908-11e4-85ee-001e6733fe3c Njonjo~Tower Importing 
+0e4bec50-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0e4bec50-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0e4bec50-e908-11e4-85ee-001e6733fe3c General Data Recieved 0
+0e4bec50-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0e4bec50-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 1
+0e4bec50-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 9
+0e4bec50-e908-11e4-85ee-001e6733fe3c Element Data Recieved 13
+0e4bec50-e908-11e4-85ee-001e6733fe3c Material Data Recieved 62
+0e4bec50-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 552
+0e4bec50-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0e4bec50-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 203
+0e4bec50-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0f866d34-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0f866d34-e908-11e4-85ee-001e6733fe3c Tergal Quarter~Site Importing 
+0f866d34-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0f866d34-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0f866d34-e908-11e4-85ee-001e6733fe3c General Data Recieved 34
+0f866d34-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0f866d34-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 4
+0f866d34-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 28
+0f866d34-e908-11e4-85ee-001e6733fe3c Element Data Recieved 54
+0f866d34-e908-11e4-85ee-001e6733fe3c Material Data Recieved 72
+0f866d34-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 243
+0f866d34-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0f866d34-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 250
+0f866d34-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0f87fc62-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0f87fc62-e908-11e4-85ee-001e6733fe3c Tergal Quarter~Tower Importing 
+0f87fc62-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0f87fc62-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0f87fc62-e908-11e4-85ee-001e6733fe3c General Data Recieved 0
+0f87fc62-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0f87fc62-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 1
+0f87fc62-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 8
+0f87fc62-e908-11e4-85ee-001e6733fe3c Element Data Recieved 12
+0f87fc62-e908-11e4-85ee-001e6733fe3c Material Data Recieved 62
+0f87fc62-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 568
+0f87fc62-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0f87fc62-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 87
+0f87fc62-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0cc981d0-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0cc981d0-e908-11e4-85ee-001e6733fe3c Makepe Evangelic Church~Site Importing 
+0cc981d0-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0cc981d0-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0cc981d0-e908-11e4-85ee-001e6733fe3c General Data Recieved 34
+0cc981d0-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0cc981d0-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 4
+0cc981d0-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 25
+0cc981d0-e908-11e4-85ee-001e6733fe3c Element Data Recieved 51
+0cc981d0-e908-11e4-85ee-001e6733fe3c Material Data Recieved 55
+0cc981d0-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 198
+0cc981d0-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0cc981d0-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 46
+0cc981d0-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0ccb4060-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0ccb4060-e908-11e4-85ee-001e6733fe3c Makepe Evangelic Church~Tower Importing 
+0ccb4060-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0ccb4060-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0ccb4060-e908-11e4-85ee-001e6733fe3c General Data Recieved 0
+0ccb4060-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0ccb4060-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 1
+0ccb4060-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 9
+0ccb4060-e908-11e4-85ee-001e6733fe3c Element Data Recieved 13
+0ccb4060-e908-11e4-85ee-001e6733fe3c Material Data Recieved 53
+0ccb4060-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 472
+0ccb4060-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0ccb4060-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 84
+0ccb4060-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0aada688-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0aada688-e908-11e4-85ee-001e6733fe3c Bonassama~Site Importing 
+0aada688-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0aada688-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0aada688-e908-11e4-85ee-001e6733fe3c General Data Recieved 34
+0aada688-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0aada688-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 4
+0aada688-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 27
+0aada688-e908-11e4-85ee-001e6733fe3c Element Data Recieved 55
+0aada688-e908-11e4-85ee-001e6733fe3c Material Data Recieved 40
+0aada688-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 170
+0aada688-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0aada688-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 58
+0aada688-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0aaf29ae-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0aaf29ae-e908-11e4-85ee-001e6733fe3c Bonassama~Tower Importing 
+0aaf29ae-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0aaf29ae-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0aaf29ae-e908-11e4-85ee-001e6733fe3c General Data Recieved 0
+0aaf29ae-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0aaf29ae-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 1
+0aaf29ae-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 9
+0aaf29ae-e908-11e4-85ee-001e6733fe3c Element Data Recieved 13
+0aaf29ae-e908-11e4-85ee-001e6733fe3c Material Data Recieved 40
+0aaf29ae-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 386
+0aaf29ae-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0aaf29ae-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 146
+0aaf29ae-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0efd9086-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0efd9086-e908-11e4-85ee-001e6733fe3c Sacre Coeur Catholic Church~Site Importing 
+0efd9086-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0efd9086-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0efd9086-e908-11e4-85ee-001e6733fe3c General Data Recieved 34
+0efd9086-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0efd9086-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 4
+0efd9086-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 28
+0efd9086-e908-11e4-85ee-001e6733fe3c Element Data Recieved 54
+0efd9086-e908-11e4-85ee-001e6733fe3c Material Data Recieved 95
+0efd9086-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 319
+0efd9086-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0efd9086-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 309
+0efd9086-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0efeeb0c-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0efeeb0c-e908-11e4-85ee-001e6733fe3c Sacre Coeur Catholic Church~Tower Importing 
+0efeeb0c-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0efeeb0c-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0efeeb0c-e908-11e4-85ee-001e6733fe3c General Data Recieved 0
+0efeeb0c-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0efeeb0c-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 1
+0efeeb0c-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 8
+0efeeb0c-e908-11e4-85ee-001e6733fe3c Element Data Recieved 12
+0efeeb0c-e908-11e4-85ee-001e6733fe3c Material Data Recieved 43
+0efeeb0c-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 412
+0efeeb0c-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0efeeb0c-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 160
+0efeeb0c-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0cb29718-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0cb29718-e908-11e4-85ee-001e6733fe3c Lycee Leclerc School~Site Importing 
+0cb29718-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0cb29718-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0cb29718-e908-11e4-85ee-001e6733fe3c General Data Recieved 34
+0cb29718-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0cb29718-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 4
+0cb29718-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 27
+0cb29718-e908-11e4-85ee-001e6733fe3c Element Data Recieved 55
+0cb29718-e908-11e4-85ee-001e6733fe3c Material Data Recieved 51
+0cb29718-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 197
+0cb29718-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0cb29718-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 163
+0cb29718-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0cb4eaea-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0cb4eaea-e908-11e4-85ee-001e6733fe3c Lycee Leclerc School~Tower Importing 
+0cb4eaea-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0cb4eaea-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0cb4eaea-e908-11e4-85ee-001e6733fe3c General Data Recieved 0
+0cb4eaea-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0cb4eaea-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 1
+0cb4eaea-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 8
+0cb4eaea-e908-11e4-85ee-001e6733fe3c Element Data Recieved 12
+0cb4eaea-e908-11e4-85ee-001e6733fe3c Material Data Recieved 55
+0cb4eaea-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 469
+0cb4eaea-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0cb4eaea-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 118
+0cb4eaea-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0c6e1138-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0c6e1138-e908-11e4-85ee-001e6733fe3c Le Flamboyant~Site Importing 
+0c6e1138-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0c6e1138-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0c6e1138-e908-11e4-85ee-001e6733fe3c General Data Recieved 34
+0c6e1138-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0c6e1138-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 1
+0c6e1138-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 17
+0c6e1138-e908-11e4-85ee-001e6733fe3c Element Data Recieved 39
+0c6e1138-e908-11e4-85ee-001e6733fe3c Material Data Recieved 34
+0c6e1138-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 137
+0c6e1138-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0c6e1138-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 188
+0c6e1138-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0c6fb592-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0c6fb592-e908-11e4-85ee-001e6733fe3c Le Flamboyant~Tower Importing 
+0c6fb592-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0c6fb592-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0c6fb592-e908-11e4-85ee-001e6733fe3c General Data Recieved 0
+0c6fb592-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0c6fb592-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 1
+0c6fb592-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 8
+0c6fb592-e908-11e4-85ee-001e6733fe3c Element Data Recieved 11
+0c6fb592-e908-11e4-85ee-001e6733fe3c Material Data Recieved 38
+0c6fb592-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 349
+0c6fb592-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0c6fb592-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 127
+0c6fb592-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+09e9481a-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+09e9481a-e908-11e4-85ee-001e6733fe3c Bastos - Meumi Palace~Site Importing 
+09e9481a-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+09e9481a-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+09e9481a-e908-11e4-85ee-001e6733fe3c General Data Recieved 34
+09e9481a-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+09e9481a-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 2
+09e9481a-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 22
+09e9481a-e908-11e4-85ee-001e6733fe3c Element Data Recieved 46
+09e9481a-e908-11e4-85ee-001e6733fe3c Material Data Recieved 29
+09e9481a-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 174
+09e9481a-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+09e9481a-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 113
+09e9481a-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+09eb124e-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+09eb124e-e908-11e4-85ee-001e6733fe3c Bastos - Meumi Palace~Tower Importing 
+09eb124e-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+09eb124e-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+09eb124e-e908-11e4-85ee-001e6733fe3c General Data Recieved 0
+09eb124e-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+09eb124e-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 1
+09eb124e-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 7
+09eb124e-e908-11e4-85ee-001e6733fe3c Element Data Recieved 8
+09eb124e-e908-11e4-85ee-001e6733fe3c Material Data Recieved 15
+09eb124e-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 135
+09eb124e-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+09eb124e-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 60
+09eb124e-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0d15f9de-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0d15f9de-e908-11e4-85ee-001e6733fe3c Mballa II~Site Importing 
+0d15f9de-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0d15f9de-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0d15f9de-e908-11e4-85ee-001e6733fe3c General Data Recieved 34
+0d15f9de-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0d15f9de-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 4
+0d15f9de-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 28
+0d15f9de-e908-11e4-85ee-001e6733fe3c Element Data Recieved 56
+0d15f9de-e908-11e4-85ee-001e6733fe3c Material Data Recieved 60
+0d15f9de-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 219
+0d15f9de-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0d15f9de-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 209
+0d15f9de-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0d17bf26-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0d17bf26-e908-11e4-85ee-001e6733fe3c Mballa II~Tower Importing 
+0d17bf26-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0d17bf26-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0d17bf26-e908-11e4-85ee-001e6733fe3c General Data Recieved 0
+0d17bf26-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0d17bf26-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 1
+0d17bf26-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 9
+0d17bf26-e908-11e4-85ee-001e6733fe3c Element Data Recieved 13
+0d17bf26-e908-11e4-85ee-001e6733fe3c Material Data Recieved 61
+0d17bf26-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 560
+0d17bf26-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0d17bf26-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 115
+0d17bf26-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0f2c3850-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0f2c3850-e908-11e4-85ee-001e6733fe3c Siantou Radio~Site Importing 
+0f2c3850-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0f2c3850-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0f2c3850-e908-11e4-85ee-001e6733fe3c General Data Recieved 34
+0f2c3850-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0f2c3850-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 1
+0f2c3850-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 17
+0f2c3850-e908-11e4-85ee-001e6733fe3c Element Data Recieved 35
+0f2c3850-e908-11e4-85ee-001e6733fe3c Material Data Recieved 45
+0f2c3850-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 148
+0f2c3850-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+Site Count = 1198
+0d2bc00c-e908-11e4-85ee-001e6733fe3c Imported 
+0d2d55e8-e908-11e4-85ee-001e6733fe3c Imported 
+0d1981d0-e908-11e4-85ee-001e6733fe3c Imported 
+0d1b6dd8-e908-11e4-85ee-001e6733fe3c Imported 
+0e755bd0-e908-11e4-85ee-001e6733fe3c Imported 
+0e76ef22-e908-11e4-85ee-001e6733fe3c Imported 
+0a57e234-e908-11e4-85ee-001e6733fe3c Imported 
+0a596ac8-e908-11e4-85ee-001e6733fe3c Imported 
+0dc2739e-e908-11e4-85ee-001e6733fe3c Imported 
+0dc3d734-e908-11e4-85ee-001e6733fe3c Imported 
+0b0290ee-e908-11e4-85ee-001e6733fe3c Imported 
+0b043278-e908-11e4-85ee-001e6733fe3c Imported 
+0e4a7316-e908-11e4-85ee-001e6733fe3c Imported 
+0e4bec50-e908-11e4-85ee-001e6733fe3c Imported 
+0f866d34-e908-11e4-85ee-001e6733fe3c Imported 
+0f87fc62-e908-11e4-85ee-001e6733fe3c Imported 
+0cc981d0-e908-11e4-85ee-001e6733fe3c Imported 
+0ccb4060-e908-11e4-85ee-001e6733fe3c Imported 
+0aada688-e908-11e4-85ee-001e6733fe3c Imported 
+0aaf29ae-e908-11e4-85ee-001e6733fe3c Imported 
+0efd9086-e908-11e4-85ee-001e6733fe3c Imported 
+0efeeb0c-e908-11e4-85ee-001e6733fe3c Imported 
+0cb29718-e908-11e4-85ee-001e6733fe3c Imported 
+0cb4eaea-e908-11e4-85ee-001e6733fe3c Imported 
+0c6e1138-e908-11e4-85ee-001e6733fe3c Imported 
+0c6fb592-e908-11e4-85ee-001e6733fe3c Imported 
+09e9481a-e908-11e4-85ee-001e6733fe3c Imported 
+09eb124e-e908-11e4-85ee-001e6733fe3c Imported 
+0d15f9de-e908-11e4-85ee-001e6733fe3c Imported 
+0d17bf26-e908-11e4-85ee-001e6733fe3c Imported 
+0f2c3850-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0f2c3850-e908-11e4-85ee-001e6733fe3c Siantou Radio~Site Importing 
+0f2c3850-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0f2c3850-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0f2c3850-e908-11e4-85ee-001e6733fe3c General Data Recieved 34
+0f2c3850-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0f2c3850-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 1
+0f2c3850-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 17
+0f2c3850-e908-11e4-85ee-001e6733fe3c Element Data Recieved 35
+0f2c3850-e908-11e4-85ee-001e6733fe3c Material Data Recieved 45
+0f2c3850-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 148
+0f2c3850-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0f2c3850-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 139
+0f2c3850-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0f2dd0f2-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0f2dd0f2-e908-11e4-85ee-001e6733fe3c Siantou Radio~Tower Importing 
+0f2dd0f2-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0f2dd0f2-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0f2dd0f2-e908-11e4-85ee-001e6733fe3c General Data Recieved 0
+0f2dd0f2-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0f2dd0f2-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 1
+0f2dd0f2-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 9
+0f2dd0f2-e908-11e4-85ee-001e6733fe3c Element Data Recieved 12
+0f2dd0f2-e908-11e4-85ee-001e6733fe3c Material Data Recieved 36
+0f2dd0f2-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 338
+0f2dd0f2-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0f2dd0f2-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 172
+0f2dd0f2-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0d75ca8a-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0d75ca8a-e908-11e4-85ee-001e6733fe3c Messassi~Site Importing 
+0d75ca8a-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0d75ca8a-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0d75ca8a-e908-11e4-85ee-001e6733fe3c General Data Recieved 34
+0d75ca8a-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0d75ca8a-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 4
+0d75ca8a-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 28
+0d75ca8a-e908-11e4-85ee-001e6733fe3c Element Data Recieved 51
+0d75ca8a-e908-11e4-85ee-001e6733fe3c Material Data Recieved 53
+0d75ca8a-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 199
+0d75ca8a-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0d75ca8a-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 94
+0d75ca8a-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0d778ba4-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0d778ba4-e908-11e4-85ee-001e6733fe3c Messassi~Tower Importing 
+0d778ba4-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0d778ba4-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0d778ba4-e908-11e4-85ee-001e6733fe3c General Data Recieved 0
+0d778ba4-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0d778ba4-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 1
+0d778ba4-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 8
+0d778ba4-e908-11e4-85ee-001e6733fe3c Element Data Recieved 12
+0d778ba4-e908-11e4-85ee-001e6733fe3c Material Data Recieved 43
+0d778ba4-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 353
+0d778ba4-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0d778ba4-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 136
+0d778ba4-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0cc638a4-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0cc638a4-e908-11e4-85ee-001e6733fe3c Makepe Decharge~Site Importing 
+0cc638a4-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0cc638a4-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0cc638a4-e908-11e4-85ee-001e6733fe3c General Data Recieved 34
+0cc638a4-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0cc638a4-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 4
+0cc638a4-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 27
+0cc638a4-e908-11e4-85ee-001e6733fe3c Element Data Recieved 53
+0cc638a4-e908-11e4-85ee-001e6733fe3c Material Data Recieved 44
+0cc638a4-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 182
+0cc638a4-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0cc638a4-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 153
+0cc638a4-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0cc7e3ca-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0cc7e3ca-e908-11e4-85ee-001e6733fe3c Makepe Decharge~Tower Importing 
+0cc7e3ca-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0cc7e3ca-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0cc7e3ca-e908-11e4-85ee-001e6733fe3c General Data Recieved 0
+0cc7e3ca-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0cc7e3ca-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 1
+0cc7e3ca-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 9
+0cc7e3ca-e908-11e4-85ee-001e6733fe3c Element Data Recieved 13
+0cc7e3ca-e908-11e4-85ee-001e6733fe3c Material Data Recieved 31
+0cc7e3ca-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 273
+0cc7e3ca-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0cc7e3ca-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 65
+0cc7e3ca-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0e4d6d78-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0e4d6d78-e908-11e4-85ee-001e6733fe3c Nkoabang~Site Importing 
+0e4d6d78-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0e4d6d78-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0e4d6d78-e908-11e4-85ee-001e6733fe3c General Data Recieved 34
+0e4d6d78-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0e4d6d78-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 4
+0e4d6d78-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 28
+0e4d6d78-e908-11e4-85ee-001e6733fe3c Element Data Recieved 55
+0e4d6d78-e908-11e4-85ee-001e6733fe3c Material Data Recieved 59
+0e4d6d78-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 221
+0e4d6d78-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0e4d6d78-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 158
+0e4d6d78-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0e4eda0a-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0e4eda0a-e908-11e4-85ee-001e6733fe3c Nkoabang~Tower Importing 
+0e4eda0a-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0e4eda0a-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0e4eda0a-e908-11e4-85ee-001e6733fe3c General Data Recieved 0
+0e4eda0a-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0e4eda0a-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 1
+0e4eda0a-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 8
+0e4eda0a-e908-11e4-85ee-001e6733fe3c Element Data Recieved 12
+0e4eda0a-e908-11e4-85ee-001e6733fe3c Material Data Recieved 46
+0e4eda0a-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 391
+0e4eda0a-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0e4eda0a-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 170
+0e4eda0a-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0f964970-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0f964970-e908-11e4-85ee-001e6733fe3c Tout Pour Moto~Site Importing 
+0f964970-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0f964970-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0f964970-e908-11e4-85ee-001e6733fe3c General Data Recieved 34
+0f964970-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0f964970-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 2
+0f964970-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 18
+0f964970-e908-11e4-85ee-001e6733fe3c Element Data Recieved 32
+0f964970-e908-11e4-85ee-001e6733fe3c Material Data Recieved 27
+0f964970-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 127
+0f964970-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0f964970-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 96
+0f964970-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0f97eb36-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0f97eb36-e908-11e4-85ee-001e6733fe3c Tout Pour Moto~Tower Importing 
+0f97eb36-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0f97eb36-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0f97eb36-e908-11e4-85ee-001e6733fe3c General Data Recieved 0
+0f97eb36-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0f97eb36-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 1
+0f97eb36-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 9
+0f97eb36-e908-11e4-85ee-001e6733fe3c Element Data Recieved 12
+0f97eb36-e908-11e4-85ee-001e6733fe3c Material Data Recieved 18
+0f97eb36-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 244
+0f97eb36-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0f97eb36-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 85
+0f97eb36-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0966f6a8-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0966f6a8-e908-11e4-85ee-001e6733fe3c Aristha Hotel~Site Importing 
+0966f6a8-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0966f6a8-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0966f6a8-e908-11e4-85ee-001e6733fe3c General Data Recieved 34
+0966f6a8-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0966f6a8-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 2
+0966f6a8-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 22
+0966f6a8-e908-11e4-85ee-001e6733fe3c Element Data Recieved 48
+0966f6a8-e908-11e4-85ee-001e6733fe3c Material Data Recieved 38
+0966f6a8-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 182
+0966f6a8-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0966f6a8-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 59
+0966f6a8-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0968ce1a-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0968ce1a-e908-11e4-85ee-001e6733fe3c Aristha Hotel~Tower Importing 
+0968ce1a-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0968ce1a-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0968ce1a-e908-11e4-85ee-001e6733fe3c General Data Recieved 0
+0968ce1a-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0968ce1a-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 1
+0968ce1a-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 7
+0968ce1a-e908-11e4-85ee-001e6733fe3c Element Data Recieved 10
+0968ce1a-e908-11e4-85ee-001e6733fe3c Material Data Recieved 30
+0968ce1a-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 274
+0968ce1a-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0968ce1a-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 89
+0968ce1a-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0ddc6d94-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0ddc6d94-e908-11e4-85ee-001e6733fe3c Ndogpassi~Site Importing 
+0ddc6d94-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0ddc6d94-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0ddc6d94-e908-11e4-85ee-001e6733fe3c General Data Recieved 34
+0ddc6d94-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0ddc6d94-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 4
+0ddc6d94-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 27
+0ddc6d94-e908-11e4-85ee-001e6733fe3c Element Data Recieved 54
+0ddc6d94-e908-11e4-85ee-001e6733fe3c Material Data Recieved 41
+0ddc6d94-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 169
+0ddc6d94-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0ddc6d94-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 87
+0ddc6d94-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0dde56cc-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0dde56cc-e908-11e4-85ee-001e6733fe3c Ndogpassi~Tower Importing 
+0dde56cc-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0dde56cc-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0dde56cc-e908-11e4-85ee-001e6733fe3c General Data Recieved 0
+0dde56cc-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0dde56cc-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 1
+0dde56cc-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 9
+0dde56cc-e908-11e4-85ee-001e6733fe3c Element Data Recieved 13
+0dde56cc-e908-11e4-85ee-001e6733fe3c Material Data Recieved 44
+0dde56cc-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 401
+0dde56cc-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0dde56cc-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 71
+0dde56cc-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0bf3a79a-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0bf3a79a-e908-11e4-85ee-001e6733fe3c Galerie Tayou~Site Importing 
+0bf3a79a-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0bf3a79a-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0bf3a79a-e908-11e4-85ee-001e6733fe3c General Data Recieved 34
+0bf3a79a-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0bf3a79a-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 2
+0bf3a79a-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 22
+0bf3a79a-e908-11e4-85ee-001e6733fe3c Element Data Recieved 46
+0bf3a79a-e908-11e4-85ee-001e6733fe3c Material Data Recieved 46
+0bf3a79a-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 191
+0bf3a79a-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0bf3a79a-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 151
+0bf3a79a-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0bf5450a-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0bf5450a-e908-11e4-85ee-001e6733fe3c Galerie Tayou~Tower Importing 
+0bf5450a-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0bf5450a-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0bf5450a-e908-11e4-85ee-001e6733fe3c General Data Recieved 0
+0bf5450a-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0bf5450a-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 1
+0bf5450a-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 8
+0bf5450a-e908-11e4-85ee-001e6733fe3c Element Data Recieved 11
+0bf5450a-e908-11e4-85ee-001e6733fe3c Material Data Recieved 37
+0bf5450a-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 351
+0bf5450a-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0bf5450a-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 113
+0bf5450a-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0cc3234e-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0cc3234e-e908-11e4-85ee-001e6733fe3c Maison Komkana~Site Importing 
+0cc3234e-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0cc3234e-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0cc3234e-e908-11e4-85ee-001e6733fe3c General Data Recieved 34
+0cc3234e-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0cc3234e-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 1
+0cc3234e-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 17
+0cc3234e-e908-11e4-85ee-001e6733fe3c Element Data Recieved 37
+0cc3234e-e908-11e4-85ee-001e6733fe3c Material Data Recieved 29
+0cc3234e-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 123
+0cc3234e-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0cc3234e-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 64
+0cc3234e-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0cc49364-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0cc49364-e908-11e4-85ee-001e6733fe3c Maison Komkana~Tower Importing 
+0cc49364-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0cc49364-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0cc49364-e908-11e4-85ee-001e6733fe3c General Data Recieved 0
+0cc49364-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0cc49364-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 1
+0cc49364-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 7
+0cc49364-e908-11e4-85ee-001e6733fe3c Element Data Recieved 8
+0cc49364-e908-11e4-85ee-001e6733fe3c Material Data Recieved 13
+0cc49364-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 122
+0cc49364-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0cc49364-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 34
+0cc49364-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0d329f26-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0d329f26-e908-11e4-85ee-001e6733fe3c Mbende~Site Importing 
+0d329f26-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0d329f26-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0d329f26-e908-11e4-85ee-001e6733fe3c General Data Recieved 34
+0d329f26-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0d329f26-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 4
+0d329f26-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 27
+0d329f26-e908-11e4-85ee-001e6733fe3c Element Data Recieved 53
+0d329f26-e908-11e4-85ee-001e6733fe3c Material Data Recieved 47
+0d329f26-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 188
+0d329f26-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0d329f26-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 58
+0d329f26-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0d346a86-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0d346a86-e908-11e4-85ee-001e6733fe3c Mbende~Tower Importing 
+0d346a86-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0d346a86-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0d346a86-e908-11e4-85ee-001e6733fe3c General Data Recieved 0
+0d346a86-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0d346a86-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 1
+0d346a86-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 9
+0d346a86-e908-11e4-85ee-001e6733fe3c Element Data Recieved 13
+0d346a86-e908-11e4-85ee-001e6733fe3c Material Data Recieved 33
+0d346a86-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 315
+0d346a86-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+Site Count = 1198
+0d2bc00c-e908-11e4-85ee-001e6733fe3c Imported 
+0d2d55e8-e908-11e4-85ee-001e6733fe3c Imported 
+0d1981d0-e908-11e4-85ee-001e6733fe3c Imported 
+0d1b6dd8-e908-11e4-85ee-001e6733fe3c Imported 
+0e755bd0-e908-11e4-85ee-001e6733fe3c Imported 
+0e76ef22-e908-11e4-85ee-001e6733fe3c Imported 
+0a57e234-e908-11e4-85ee-001e6733fe3c Imported 
+0a596ac8-e908-11e4-85ee-001e6733fe3c Imported 
+0dc2739e-e908-11e4-85ee-001e6733fe3c Imported 
+0dc3d734-e908-11e4-85ee-001e6733fe3c Imported 
+0b0290ee-e908-11e4-85ee-001e6733fe3c Imported 
+0b043278-e908-11e4-85ee-001e6733fe3c Imported 
+0e4a7316-e908-11e4-85ee-001e6733fe3c Imported 
+0e4bec50-e908-11e4-85ee-001e6733fe3c Imported 
+0f866d34-e908-11e4-85ee-001e6733fe3c Imported 
+0f87fc62-e908-11e4-85ee-001e6733fe3c Imported 
+0cc981d0-e908-11e4-85ee-001e6733fe3c Imported 
+0ccb4060-e908-11e4-85ee-001e6733fe3c Imported 
+0aada688-e908-11e4-85ee-001e6733fe3c Imported 
+0aaf29ae-e908-11e4-85ee-001e6733fe3c Imported 
+0efd9086-e908-11e4-85ee-001e6733fe3c Imported 
+0efeeb0c-e908-11e4-85ee-001e6733fe3c Imported 
+0cb29718-e908-11e4-85ee-001e6733fe3c Imported 
+0cb4eaea-e908-11e4-85ee-001e6733fe3c Imported 
+0c6e1138-e908-11e4-85ee-001e6733fe3c Imported 
+0c6fb592-e908-11e4-85ee-001e6733fe3c Imported 
+09e9481a-e908-11e4-85ee-001e6733fe3c Imported 
+09eb124e-e908-11e4-85ee-001e6733fe3c Imported 
+0d15f9de-e908-11e4-85ee-001e6733fe3c Imported 
+0d17bf26-e908-11e4-85ee-001e6733fe3c Imported 
+0f2c3850-e908-11e4-85ee-001e6733fe3c Imported 
+0f2dd0f2-e908-11e4-85ee-001e6733fe3c Imported 
+0d75ca8a-e908-11e4-85ee-001e6733fe3c Imported 
+0d778ba4-e908-11e4-85ee-001e6733fe3c Imported 
+0cc638a4-e908-11e4-85ee-001e6733fe3c Imported 
+0cc7e3ca-e908-11e4-85ee-001e6733fe3c Imported 
+0e4d6d78-e908-11e4-85ee-001e6733fe3c Imported 
+0e4eda0a-e908-11e4-85ee-001e6733fe3c Imported 
+0f964970-e908-11e4-85ee-001e6733fe3c Imported 
+0f97eb36-e908-11e4-85ee-001e6733fe3c Imported 
+0966f6a8-e908-11e4-85ee-001e6733fe3c Imported 
+0968ce1a-e908-11e4-85ee-001e6733fe3c Imported 
+0ddc6d94-e908-11e4-85ee-001e6733fe3c Imported 
+0dde56cc-e908-11e4-85ee-001e6733fe3c Imported 
+0bf3a79a-e908-11e4-85ee-001e6733fe3c Imported 
+0bf5450a-e908-11e4-85ee-001e6733fe3c Imported 
+0cc3234e-e908-11e4-85ee-001e6733fe3c Imported 
+0cc49364-e908-11e4-85ee-001e6733fe3c Imported 
+0d329f26-e908-11e4-85ee-001e6733fe3c Imported 
+0d346a86-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0d346a86-e908-11e4-85ee-001e6733fe3c Mbende~Tower Importing 
+0d346a86-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0d346a86-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0d346a86-e908-11e4-85ee-001e6733fe3c General Data Recieved 0
+0d346a86-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0d346a86-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 1
+0d346a86-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 9
+0d346a86-e908-11e4-85ee-001e6733fe3c Element Data Recieved 13
+0d346a86-e908-11e4-85ee-001e6733fe3c Material Data Recieved 33
+0d346a86-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 315
+0d346a86-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0d346a86-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 94
+0d346a86-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0c169e26-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0c169e26-e908-11e4-85ee-001e6733fe3c Great Soppo~Site Importing 
+0c169e26-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0c169e26-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0c169e26-e908-11e4-85ee-001e6733fe3c General Data Recieved 34
+0c169e26-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0c169e26-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 4
+0c169e26-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 26
+0c169e26-e908-11e4-85ee-001e6733fe3c Element Data Recieved 49
+0c169e26-e908-11e4-85ee-001e6733fe3c Material Data Recieved 37
+0c169e26-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 165
+0c169e26-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+Site Count = 1198
+0d2bc00c-e908-11e4-85ee-001e6733fe3c Imported 
+0d2d55e8-e908-11e4-85ee-001e6733fe3c Imported 
+0d1981d0-e908-11e4-85ee-001e6733fe3c Imported 
+0d1b6dd8-e908-11e4-85ee-001e6733fe3c Imported 
+0e755bd0-e908-11e4-85ee-001e6733fe3c Imported 
+0e76ef22-e908-11e4-85ee-001e6733fe3c Imported 
+0a57e234-e908-11e4-85ee-001e6733fe3c Imported 
+0a596ac8-e908-11e4-85ee-001e6733fe3c Imported 
+0dc2739e-e908-11e4-85ee-001e6733fe3c Imported 
+0dc3d734-e908-11e4-85ee-001e6733fe3c Imported 
+0b0290ee-e908-11e4-85ee-001e6733fe3c Imported 
+0b043278-e908-11e4-85ee-001e6733fe3c Imported 
+0e4a7316-e908-11e4-85ee-001e6733fe3c Imported 
+0e4bec50-e908-11e4-85ee-001e6733fe3c Imported 
+0f866d34-e908-11e4-85ee-001e6733fe3c Imported 
+0f87fc62-e908-11e4-85ee-001e6733fe3c Imported 
+0cc981d0-e908-11e4-85ee-001e6733fe3c Imported 
+0ccb4060-e908-11e4-85ee-001e6733fe3c Imported 
+0aada688-e908-11e4-85ee-001e6733fe3c Imported 
+0aaf29ae-e908-11e4-85ee-001e6733fe3c Imported 
+0efd9086-e908-11e4-85ee-001e6733fe3c Imported 
+0efeeb0c-e908-11e4-85ee-001e6733fe3c Imported 
+0cb29718-e908-11e4-85ee-001e6733fe3c Imported 
+0cb4eaea-e908-11e4-85ee-001e6733fe3c Imported 
+0c6e1138-e908-11e4-85ee-001e6733fe3c Imported 
+0c6fb592-e908-11e4-85ee-001e6733fe3c Imported 
+09e9481a-e908-11e4-85ee-001e6733fe3c Imported 
+09eb124e-e908-11e4-85ee-001e6733fe3c Imported 
+0d15f9de-e908-11e4-85ee-001e6733fe3c Imported 
+0d17bf26-e908-11e4-85ee-001e6733fe3c Imported 
+0f2c3850-e908-11e4-85ee-001e6733fe3c Imported 
+0f2dd0f2-e908-11e4-85ee-001e6733fe3c Imported 
+0d75ca8a-e908-11e4-85ee-001e6733fe3c Imported 
+0d778ba4-e908-11e4-85ee-001e6733fe3c Imported 
+0cc638a4-e908-11e4-85ee-001e6733fe3c Imported 
+0cc7e3ca-e908-11e4-85ee-001e6733fe3c Imported 
+0e4d6d78-e908-11e4-85ee-001e6733fe3c Imported 
+0e4eda0a-e908-11e4-85ee-001e6733fe3c Imported 
+0f964970-e908-11e4-85ee-001e6733fe3c Imported 
+0f97eb36-e908-11e4-85ee-001e6733fe3c Imported 
+0966f6a8-e908-11e4-85ee-001e6733fe3c Imported 
+0968ce1a-e908-11e4-85ee-001e6733fe3c Imported 
+0ddc6d94-e908-11e4-85ee-001e6733fe3c Imported 
+0dde56cc-e908-11e4-85ee-001e6733fe3c Imported 
+0bf3a79a-e908-11e4-85ee-001e6733fe3c Imported 
+0bf5450a-e908-11e4-85ee-001e6733fe3c Imported 
+0cc3234e-e908-11e4-85ee-001e6733fe3c Imported 
+0cc49364-e908-11e4-85ee-001e6733fe3c Imported 
+0d329f26-e908-11e4-85ee-001e6733fe3c Imported 
+0d346a86-e908-11e4-85ee-001e6733fe3c Imported 
+0c169e26-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0c169e26-e908-11e4-85ee-001e6733fe3c Great Soppo~Site Importing 
+0c169e26-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0c169e26-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0c169e26-e908-11e4-85ee-001e6733fe3c General Data Recieved 34
+0c169e26-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0c169e26-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 4
+0c169e26-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 26
+0c169e26-e908-11e4-85ee-001e6733fe3c Element Data Recieved 49
+0c169e26-e908-11e4-85ee-001e6733fe3c Material Data Recieved 37
+0c169e26-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 165
+0c169e26-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0c169e26-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 92
+0c169e26-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0c183e2a-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0c183e2a-e908-11e4-85ee-001e6733fe3c Great Soppo~Tower Importing 
+0c183e2a-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0c183e2a-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0c183e2a-e908-11e4-85ee-001e6733fe3c General Data Recieved 0
+0c183e2a-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0c183e2a-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 1
+0c183e2a-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 9
+0c183e2a-e908-11e4-85ee-001e6733fe3c Element Data Recieved 13
+0c183e2a-e908-11e4-85ee-001e6733fe3c Material Data Recieved 32
+0c183e2a-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 329
+0c183e2a-e908-11e4-85ee-001e6733fe3c Recieveing Photos 
+0c183e2a-e908-11e4-85ee-001e6733fe3c Photo Data Recieved 138
+0c183e2a-e908-11e4-85ee-001e6733fe3c Data Saved to SQL Server 
+0c03b964-e908-11e4-85ee-001e6733fe3c Ready_For_Import 
+0c03b964-e908-11e4-85ee-001e6733fe3c German Club~Site Importing 
+0c03b964-e908-11e4-85ee-001e6733fe3c Site Data Recieved 
+0c03b964-e908-11e4-85ee-001e6733fe3c Worker Data Recieved 
+0c03b964-e908-11e4-85ee-001e6733fe3c General Data Recieved 34
+0c03b964-e908-11e4-85ee-001e6733fe3c Area Data Recieved 1
+0c03b964-e908-11e4-85ee-001e6733fe3c Sub Area Data Recieved 1
+0c03b964-e908-11e4-85ee-001e6733fe3c Element Group Data Recieved 14
+0c03b964-e908-11e4-85ee-001e6733fe3c Element Data Recieved 27
+0c03b964-e908-11e4-85ee-001e6733fe3c Material Data Recieved 22
+0c03b964-e908-11e4-85ee-001e6733fe3c Condition Data Recieved 95
+0c03b964-e908-11e4-85ee-001e6733fe3c Recieveing Photos 

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="8e76c1a95a01433bbdabbcaa5d6df5df" Name="Diagram1">
+        <EntityTypeShape EntityType="FSSCDBIModel.jny_app" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="FSSCDBIModel.jny_area" Width="1.5" PointX="2.75" PointY="0.75" />
+        <EntityTypeShape EntityType="FSSCDBIModel.jny_condition" Width="1.5" PointX="4.75" PointY="0.75" />
+        <EntityTypeShape EntityType="FSSCDBIModel.jny_element" Width="1.5" PointX="0.75" PointY="5.75" />
+        <EntityTypeShape EntityType="FSSCDBIModel.jny_element_group" Width="1.5" PointX="6.75" PointY="0.75" />
+        <EntityTypeShape EntityType="FSSCDBIModel.jny_general" Width="1.5" PointX="2.75" PointY="6.75" />
+        <EntityTypeShape EntityType="FSSCDBIModel.jny_material" Width="1.5" PointX="4.75" PointY="6.75" />
+        <EntityTypeShape EntityType="FSSCDBIModel.jny_photo_placeholder" Width="1.5" PointX="6.75" PointY="5.75" />
+        <EntityTypeShape EntityType="FSSCDBIModel.jny_site" Width="1.875" PointX="8.75" PointY="0.75" />
+        <EntityTypeShape EntityType="FSSCDBIModel.jny_sub_area" Width="1.5" PointX="8.75" PointY="6.75" />
+        <EntityTypeShape EntityType="FSSCDBIModel.jny_worker" Width="1.5" PointX="10.75" PointY="0.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

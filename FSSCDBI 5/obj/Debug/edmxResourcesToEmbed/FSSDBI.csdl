@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FSSCDBIModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="FSSCDBI_Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="jny_app" EntityType="FSSCDBIModel.jny_app" />
+    <EntitySet Name="jny_area" EntityType="FSSCDBIModel.jny_area" />
+    <EntitySet Name="jny_condition" EntityType="FSSCDBIModel.jny_condition" />
+    <EntitySet Name="jny_element" EntityType="FSSCDBIModel.jny_element" />
+    <EntitySet Name="jny_element_group" EntityType="FSSCDBIModel.jny_element_group" />
+    <EntitySet Name="jny_general" EntityType="FSSCDBIModel.jny_general" />
+    <EntitySet Name="jny_material" EntityType="FSSCDBIModel.jny_material" />
+    <EntitySet Name="jny_photo_placeholder" EntityType="FSSCDBIModel.jny_photo_placeholder" />
+    <EntitySet Name="jny_site" EntityType="FSSCDBIModel.jny_site" />
+    <EntitySet Name="jny_sub_area" EntityType="FSSCDBIModel.jny_sub_area" />
+    <EntitySet Name="jny_worker" EntityType="FSSCDBIModel.jny_worker" />
+  </EntityContainer>
+  <EntityType Name="jny_app">
+    <Key>
+      <PropertyRef Name="local_id" />
+    </Key>
+    <Property Name="local_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id" Type="Guid" />
+    <Property Name="name" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="instance" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="api_username" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="api_password" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="base_url" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="jny_area">
+    <Key>
+      <PropertyRef Name="local_id" />
+    </Key>
+    <Property Name="local_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="_updated_at" Type="DateTime" Precision="0" />
+    <Property Name="code" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="description" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="is_complete" Type="Int32" />
+    <Property Name="is_template" Type="Int32" />
+    <Property Name="name" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="site_id" Type="Guid" />
+    <Property Name="site_type" Type="Int32" />
+    <Property Name="sort_order" Type="Int32" />
+    <Property Name="status" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="template_id" Type="Guid" />
+    <Property Name="id" Type="Guid" />
+    <Property Name="display_name" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="jny_condition">
+    <Key>
+      <PropertyRef Name="local_id" />
+    </Key>
+    <Property Name="local_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="_updated_at" Type="DateTime" Precision="0" />
+    <Property Name="code" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="data_type" Type="Int32" />
+    <Property Name="element_group_id" Type="Guid" />
+    <Property Name="element_id" Type="Guid" />
+    <Property Name="is_complete" Type="Int32" />
+    <Property Name="is_multichoice" Type="Int32" />
+    <Property Name="is_template" Type="Int32" />
+    <Property Name="is_yesno" Type="Int32" />
+    <Property Name="material_id" Type="Guid" />
+    <Property Name="material_type_id" Type="Guid" />
+    <Property Name="name" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="options" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="site_id" Type="Guid" />
+    <Property Name="sort_order" Type="Int32" />
+    <Property Name="template_id" Type="Guid" />
+    <Property Name="value" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="id" Type="Guid" />
+    <Property Name="display_name" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="jny_element">
+    <Key>
+      <PropertyRef Name="local_id" />
+    </Key>
+    <Property Name="local_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="_updated_at" Type="DateTime" Precision="0" />
+    <Property Name="code" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="description" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="element_group_id" Type="Guid" />
+    <Property Name="is_complete" Type="Int32" />
+    <Property Name="is_template" Type="Int32" />
+    <Property Name="name" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="requires_photos" Type="Int32" />
+    <Property Name="site_id" Type="Guid" />
+    <Property Name="sort_order" Type="Int32" />
+    <Property Name="status" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="template_id" Type="Guid" />
+    <Property Name="id" Type="Guid" />
+    <Property Name="display_name" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="jny_element_group">
+    <Key>
+      <PropertyRef Name="local_id" />
+    </Key>
+    <Property Name="local_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="_updated_at" Type="DateTime" Precision="0" />
+    <Property Name="code" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="group" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="is_applicable" Type="Int32" />
+    <Property Name="is_complete" Type="Int32" />
+    <Property Name="is_template" Type="Int32" />
+    <Property Name="name" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="site_id" Type="Guid" />
+    <Property Name="sort_order" Type="Int32" />
+    <Property Name="status" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="sub_area_id" Type="Guid" />
+    <Property Name="template_id" Type="Guid" />
+    <Property Name="id" Type="Guid" />
+    <Property Name="display_name" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="jny_general">
+    <Key>
+      <PropertyRef Name="local_id" />
+    </Key>
+    <Property Name="local_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="_updated_at" Type="DateTime" Precision="0" />
+    <Property Name="code" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="data_type" Type="Int32" />
+    <Property Name="is_multichoice" Type="Int32" />
+    <Property Name="is_template" Type="Int32" />
+    <Property Name="name" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="options" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="site_id" Type="Guid" />
+    <Property Name="sort_order" Type="Int32" />
+    <Property Name="template_id" Type="Guid" />
+    <Property Name="value" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="id" Type="Guid" />
+    <Property Name="display_name" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="jny_material">
+    <Key>
+      <PropertyRef Name="local_id" />
+    </Key>
+    <Property Name="local_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="_updated_at" Type="DateTime" Precision="0" />
+    <Property Name="code" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="condition" Type="Int32" />
+    <Property Name="description" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="element_id" Type="Guid" />
+    <Property Name="is_complete" Type="Int32" />
+    <Property Name="material_type_id" Type="Guid" />
+    <Property Name="name" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="photo" Type="Int32" />
+    <Property Name="qty" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="qty_inspect" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="qty_no_action" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="qty_repair" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="qty_replace" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="qty_service" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="qty_upgrade" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="remarks" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="site_id" Type="Guid" />
+    <Property Name="status" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="uom" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="id" Type="Guid" />
+    <Property Name="display_name" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="jny_photo_placeholder">
+    <Key>
+      <PropertyRef Name="local_id" />
+    </Key>
+    <Property Name="local_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="_updated_at" Type="DateTime" Precision="0" />
+    <Property Name="area_id" Type="Guid" />
+    <Property Name="condition_id" Type="Guid" />
+    <Property Name="element_id" Type="Guid" />
+    <Property Name="material_id" Type="Guid" />
+    <Property Name="site_id" Type="Guid" />
+    <Property Name="sub_area_id" Type="Guid" />
+    <Property Name="sync_site_id" Type="Guid" />
+    <Property Name="latitude" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="longitude" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="altitude" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="horizontal_accuracy" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="vertical_accuracy" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="id" Type="Guid" />
+    <Property Name="display_name" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="thumbnail" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="fullscreen" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="original" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="image_data" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="image_mime_type" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="jny_site">
+    <Key>
+      <PropertyRef Name="local_id" />
+    </Key>
+    <Property Name="local_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="_updated_at" Type="DateTime" Precision="0" />
+    <Property Name="date_first" Type="DateTime" Precision="0" />
+    <Property Name="date_last" Type="DateTime" Precision="0" />
+    <Property Name="latitude" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="longitude" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="altitude" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="horizontal_accuracy" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="vertical_accuracy" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="import_current" Type="Int32" />
+    <Property Name="import_total" Type="Int32" />
+    <Property Name="is_complete" Type="Int32" />
+    <Property Name="name" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="site_type" Type="Int32" />
+    <Property Name="sort_order" Type="Int32" />
+    <Property Name="worker_id" Type="Guid" />
+    <Property Name="id" Type="Guid" />
+    <Property Name="display_name" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="jny_sub_area">
+    <Key>
+      <PropertyRef Name="local_id" />
+    </Key>
+    <Property Name="local_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="_updated_at" Type="DateTime" Precision="0" />
+    <Property Name="area_id" Type="Guid" />
+    <Property Name="code" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="description" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="is_complete" Type="Int32" />
+    <Property Name="is_template" Type="Int32" />
+    <Property Name="name" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="site_id" Type="Guid" />
+    <Property Name="sort_order" Type="Int32" />
+    <Property Name="status" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="template_id" Type="Guid" />
+    <Property Name="id" Type="Guid" />
+    <Property Name="display_name" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="jny_worker">
+    <Key>
+      <PropertyRef Name="local_id" />
+    </Key>
+    <Property Name="local_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="_updated_at" Type="DateTime" Precision="0" />
+    <Property Name="current_area_id" Type="Guid" />
+    <Property Name="current_condition_id" Type="Guid" />
+    <Property Name="current_element_group_id" Type="Guid" />
+    <Property Name="current_element_id" Type="Guid" />
+    <Property Name="current_general_id" Type="Guid" />
+    <Property Name="current_material_id" Type="Guid" />
+    <Property Name="current_sub_area_id" Type="Guid" />
+    <Property Name="name" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="next_previous" Type="Int32" />
+    <Property Name="id" Type="Guid" />
+    <Property Name="display_name" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="enrolled" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="barcode" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="url" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+  </EntityType>
+</Schema>

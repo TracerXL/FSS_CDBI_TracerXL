@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="FSSCDBIModelStoreContainer" CdmEntityContainer="FSSCDBI_Entities">
+    <EntitySetMapping Name="jny_app">
+      <EntityTypeMapping TypeName="FSSCDBIModel.jny_app">
+        <MappingFragment StoreEntitySet="jny_app">
+          <ScalarProperty Name="base_url" ColumnName="base_url" />
+          <ScalarProperty Name="api_password" ColumnName="api_password" />
+          <ScalarProperty Name="api_username" ColumnName="api_username" />
+          <ScalarProperty Name="instance" ColumnName="instance" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="local_id" ColumnName="local_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="jny_area">
+      <EntityTypeMapping TypeName="FSSCDBIModel.jny_area">
+        <MappingFragment StoreEntitySet="jny_area">
+          <ScalarProperty Name="display_name" ColumnName="display_name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="template_id" ColumnName="template_id" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="sort_order" ColumnName="sort_order" />
+          <ScalarProperty Name="site_type" ColumnName="site_type" />
+          <ScalarProperty Name="site_id" ColumnName="site_id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="is_template" ColumnName="is_template" />
+          <ScalarProperty Name="is_complete" ColumnName="is_complete" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="code" ColumnName="code" />
+          <ScalarProperty Name="_updated_at" ColumnName="_updated_at" />
+          <ScalarProperty Name="local_id" ColumnName="local_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="jny_condition">
+      <EntityTypeMapping TypeName="FSSCDBIModel.jny_condition">
+        <MappingFragment StoreEntitySet="jny_condition">
+          <ScalarProperty Name="display_name" ColumnName="display_name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="value" ColumnName="value" />
+          <ScalarProperty Name="template_id" ColumnName="template_id" />
+          <ScalarProperty Name="sort_order" ColumnName="sort_order" />
+          <ScalarProperty Name="site_id" ColumnName="site_id" />
+          <ScalarProperty Name="options" ColumnName="options" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="material_type_id" ColumnName="material_type_id" />
+          <ScalarProperty Name="material_id" ColumnName="material_id" />
+          <ScalarProperty Name="is_yesno" ColumnName="is_yesno" />
+          <ScalarProperty Name="is_template" ColumnName="is_template" />
+          <ScalarProperty Name="is_multichoice" ColumnName="is_multichoice" />
+          <ScalarProperty Name="is_complete" ColumnName="is_complete" />
+          <ScalarProperty Name="element_id" ColumnName="element_id" />
+          <ScalarProperty Name="element_group_id" ColumnName="element_group_id" />
+          <ScalarProperty Name="data_type" ColumnName="data_type" />
+          <ScalarProperty Name="code" ColumnName="code" />
+          <ScalarProperty Name="_updated_at" ColumnName="_updated_at" />
+          <ScalarProperty Name="local_id" ColumnName="local_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="jny_element">
+      <EntityTypeMapping TypeName="FSSCDBIModel.jny_element">
+        <MappingFragment StoreEntitySet="jny_element">
+          <ScalarProperty Name="display_name" ColumnName="display_name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="template_id" ColumnName="template_id" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="sort_order" ColumnName="sort_order" />
+          <ScalarProperty Name="site_id" ColumnName="site_id" />
+          <ScalarProperty Name="requires_photos" ColumnName="requires_photos" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="is_template" ColumnName="is_template" />
+          <ScalarProperty Name="is_complete" ColumnName="is_complete" />
+          <ScalarProperty Name="element_group_id" ColumnName="element_group_id" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="code" ColumnName="code" />
+          <ScalarProperty Name="_updated_at" ColumnName="_updated_at" />
+          <ScalarProperty Name="local_id" ColumnName="local_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="jny_element_group">
+      <EntityTypeMapping TypeName="FSSCDBIModel.jny_element_group">
+        <MappingFragment StoreEntitySet="jny_element_group">
+          <ScalarProperty Name="display_name" ColumnName="display_name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="template_id" ColumnName="template_id" />
+          <ScalarProperty Name="sub_area_id" ColumnName="sub_area_id" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="sort_order" ColumnName="sort_order" />
+          <ScalarProperty Name="site_id" ColumnName="site_id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="is_template" ColumnName="is_template" />
+          <ScalarProperty Name="is_complete" ColumnName="is_complete" />
+          <ScalarProperty Name="is_applicable" ColumnName="is_applicable" />
+          <ScalarProperty Name="group" ColumnName="group" />
+          <ScalarProperty Name="code" ColumnName="code" />
+          <ScalarProperty Name="_updated_at" ColumnName="_updated_at" />
+          <ScalarProperty Name="local_id" ColumnName="local_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="jny_general">
+      <EntityTypeMapping TypeName="FSSCDBIModel.jny_general">
+        <MappingFragment StoreEntitySet="jny_general">
+          <ScalarProperty Name="display_name" ColumnName="display_name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="value" ColumnName="value" />
+          <ScalarProperty Name="template_id" ColumnName="template_id" />
+          <ScalarProperty Name="sort_order" ColumnName="sort_order" />
+          <ScalarProperty Name="site_id" ColumnName="site_id" />
+          <ScalarProperty Name="options" ColumnName="options" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="is_template" ColumnName="is_template" />
+          <ScalarProperty Name="is_multichoice" ColumnName="is_multichoice" />
+          <ScalarProperty Name="data_type" ColumnName="data_type" />
+          <ScalarProperty Name="code" ColumnName="code" />
+          <ScalarProperty Name="_updated_at" ColumnName="_updated_at" />
+          <ScalarProperty Name="local_id" ColumnName="local_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="jny_material">
+      <EntityTypeMapping TypeName="FSSCDBIModel.jny_material">
+        <MappingFragment StoreEntitySet="jny_material">
+          <ScalarProperty Name="display_name" ColumnName="display_name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="uom" ColumnName="uom" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="site_id" ColumnName="site_id" />
+          <ScalarProperty Name="remarks" ColumnName="remarks" />
+          <ScalarProperty Name="qty_upgrade" ColumnName="qty_upgrade" />
+          <ScalarProperty Name="qty_service" ColumnName="qty_service" />
+          <ScalarProperty Name="qty_replace" ColumnName="qty_replace" />
+          <ScalarProperty Name="qty_repair" ColumnName="qty_repair" />
+          <ScalarProperty Name="qty_no_action" ColumnName="qty_no_action" />
+          <ScalarProperty Name="qty_inspect" ColumnName="qty_inspect" />
+          <ScalarProperty Name="qty" ColumnName="qty" />
+          <ScalarProperty Name="photo" ColumnName="photo" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="material_type_id" ColumnName="material_type_id" />
+          <ScalarProperty Name="is_complete" ColumnName="is_complete" />
+          <ScalarProperty Name="element_id" ColumnName="element_id" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="condition" ColumnName="condition" />
+          <ScalarProperty Name="code" ColumnName="code" />
+          <ScalarProperty Name="_updated_at" ColumnName="_updated_at" />
+          <ScalarProperty Name="local_id" ColumnName="local_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="jny_photo_placeholder">
+      <EntityTypeMapping TypeName="FSSCDBIModel.jny_photo_placeholder">
+        <MappingFragment StoreEntitySet="jny_photo_placeholder">
+          <ScalarProperty Name="image_mime_type" ColumnName="image_mime_type" />
+          <ScalarProperty Name="image_data" ColumnName="image_data" />
+          <ScalarProperty Name="original" ColumnName="original" />
+          <ScalarProperty Name="fullscreen" ColumnName="fullscreen" />
+          <ScalarProperty Name="thumbnail" ColumnName="thumbnail" />
+          <ScalarProperty Name="display_name" ColumnName="display_name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="vertical_accuracy" ColumnName="vertical-accuracy" />
+          <ScalarProperty Name="horizontal_accuracy" ColumnName="horizontal-accuracy" />
+          <ScalarProperty Name="altitude" ColumnName="altitude" />
+          <ScalarProperty Name="longitude" ColumnName="longitude" />
+          <ScalarProperty Name="latitude" ColumnName="latitude" />
+          <ScalarProperty Name="sync_site_id" ColumnName="sync_site_id" />
+          <ScalarProperty Name="sub_area_id" ColumnName="sub_area_id" />
+          <ScalarProperty Name="site_id" ColumnName="site_id" />
+          <ScalarProperty Name="material_id" ColumnName="material_id" />
+          <ScalarProperty Name="element_id" ColumnName="element_id" />
+          <ScalarProperty Name="condition_id" ColumnName="condition_id" />
+          <ScalarProperty Name="area_id" ColumnName="area_id" />
+          <ScalarProperty Name="_updated_at" ColumnName="_updated_at" />
+          <ScalarProperty Name="local_id" ColumnName="local_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="jny_site">
+      <EntityTypeMapping TypeName="FSSCDBIModel.jny_site">
+        <MappingFragment StoreEntitySet="jny_site">
+          <ScalarProperty Name="display_name" ColumnName="display_name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="worker_id" ColumnName="worker_id" />
+          <ScalarProperty Name="sort_order" ColumnName="sort_order" />
+          <ScalarProperty Name="site_type" ColumnName="site_type" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="is_complete" ColumnName="is_complete" />
+          <ScalarProperty Name="import_total" ColumnName="import_total" />
+          <ScalarProperty Name="import_current" ColumnName="import_current" />
+          <ScalarProperty Name="vertical_accuracy" ColumnName="vertical-accuracy" />
+          <ScalarProperty Name="horizontal_accuracy" ColumnName="horizontal-accuracy" />
+          <ScalarProperty Name="altitude" ColumnName="altitude" />
+          <ScalarProperty Name="longitude" ColumnName="longitude" />
+          <ScalarProperty Name="latitude" ColumnName="latitude" />
+          <ScalarProperty Name="date_last" ColumnName="date_last" />
+          <ScalarProperty Name="date_first" ColumnName="date_first" />
+          <ScalarProperty Name="_updated_at" ColumnName="_updated_at" />
+          <ScalarProperty Name="local_id" ColumnName="local_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="jny_sub_area">
+      <EntityTypeMapping TypeName="FSSCDBIModel.jny_sub_area">
+        <MappingFragment StoreEntitySet="jny_sub_area">
+          <ScalarProperty Name="display_name" ColumnName="display_name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="template_id" ColumnName="template_id" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="sort_order" ColumnName="sort_order" />
+          <ScalarProperty Name="site_id" ColumnName="site_id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="is_template" ColumnName="is_template" />
+          <ScalarProperty Name="is_complete" ColumnName="is_complete" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="code" ColumnName="code" />
+          <ScalarProperty Name="area_id" ColumnName="area_id" />
+          <ScalarProperty Name="_updated_at" ColumnName="_updated_at" />
+          <ScalarProperty Name="local_id" ColumnName="local_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="jny_worker">
+      <EntityTypeMapping TypeName="FSSCDBIModel.jny_worker">
+        <MappingFragment StoreEntitySet="jny_worker">
+          <ScalarProperty Name="url" ColumnName="url" />
+          <ScalarProperty Name="barcode" ColumnName="barcode" />
+          <ScalarProperty Name="enrolled" ColumnName="enrolled" />
+          <ScalarProperty Name="display_name" ColumnName="display_name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="next_previous" ColumnName="next_previous" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="current_sub_area_id" ColumnName="current_sub_area_id" />
+          <ScalarProperty Name="current_material_id" ColumnName="current_material_id" />
+          <ScalarProperty Name="current_general_id" ColumnName="current_general_id" />
+          <ScalarProperty Name="current_element_id" ColumnName="current_element_id" />
+          <ScalarProperty Name="current_element_group_id" ColumnName="current_element_group_id" />
+          <ScalarProperty Name="current_condition_id" ColumnName="current_condition_id" />
+          <ScalarProperty Name="current_area_id" ColumnName="current_area_id" />
+          <ScalarProperty Name="_updated_at" ColumnName="_updated_at" />
+          <ScalarProperty Name="local_id" ColumnName="local_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

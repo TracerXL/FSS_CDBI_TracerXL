@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FSSCDBIModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="jny_app">
+    <Key>
+      <PropertyRef Name="local_id" />
+    </Key>
+    <Property Name="local_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="id" Type="uniqueidentifier" />
+    <Property Name="name" Type="varchar(max)" />
+    <Property Name="instance" Type="varchar(max)" />
+    <Property Name="api_username" Type="varchar(max)" />
+    <Property Name="api_password" Type="varchar(max)" />
+    <Property Name="base_url" Type="varchar(max)" />
+  </EntityType>
+  <EntityType Name="jny_area">
+    <Key>
+      <PropertyRef Name="local_id" />
+    </Key>
+    <Property Name="local_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="_updated_at" Type="smalldatetime" />
+    <Property Name="code" Type="varchar(max)" />
+    <Property Name="description" Type="varchar(max)" />
+    <Property Name="is_complete" Type="int" />
+    <Property Name="is_template" Type="int" />
+    <Property Name="name" Type="varchar(max)" />
+    <Property Name="site_id" Type="uniqueidentifier" />
+    <Property Name="site_type" Type="int" />
+    <Property Name="sort_order" Type="int" />
+    <Property Name="status" Type="varchar(max)" />
+    <Property Name="template_id" Type="uniqueidentifier" />
+    <Property Name="id" Type="uniqueidentifier" />
+    <Property Name="display_name" Type="varchar(max)" />
+  </EntityType>
+  <EntityType Name="jny_condition">
+    <Key>
+      <PropertyRef Name="local_id" />
+    </Key>
+    <Property Name="local_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="_updated_at" Type="smalldatetime" />
+    <Property Name="code" Type="varchar(max)" />
+    <Property Name="data_type" Type="int" />
+    <Property Name="element_group_id" Type="uniqueidentifier" />
+    <Property Name="element_id" Type="uniqueidentifier" />
+    <Property Name="is_complete" Type="int" />
+    <Property Name="is_multichoice" Type="int" />
+    <Property Name="is_template" Type="int" />
+    <Property Name="is_yesno" Type="int" />
+    <Property Name="material_id" Type="uniqueidentifier" />
+    <Property Name="material_type_id" Type="uniqueidentifier" />
+    <Property Name="name" Type="varchar(max)" />
+    <Property Name="options" Type="varchar(max)" />
+    <Property Name="site_id" Type="uniqueidentifier" />
+    <Property Name="sort_order" Type="int" />
+    <Property Name="template_id" Type="uniqueidentifier" />
+    <Property Name="value" Type="varchar(max)" />
+    <Property Name="id" Type="uniqueidentifier" />
+    <Property Name="display_name" Type="varchar(max)" />
+  </EntityType>
+  <EntityType Name="jny_element">
+    <Key>
+      <PropertyRef Name="local_id" />
+    </Key>
+    <Property Name="local_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="_updated_at" Type="smalldatetime" />
+    <Property Name="code" Type="varchar(max)" />
+    <Property Name="description" Type="varchar(max)" />
+    <Property Name="element_group_id" Type="uniqueidentifier" />
+    <Property Name="is_complete" Type="int" />
+    <Property Name="is_template" Type="int" />
+    <Property Name="name" Type="varchar(max)" />
+    <Property Name="requires_photos" Type="int" />
+    <Property Name="site_id" Type="uniqueidentifier" />
+    <Property Name="sort_order" Type="int" />
+    <Property Name="status" Type="varchar(max)" />
+    <Property Name="template_id" Type="uniqueidentifier" />
+    <Property Name="id" Type="uniqueidentifier" />
+    <Property Name="display_name" Type="varchar(max)" />
+  </EntityType>
+  <EntityType Name="jny_element_group">
+    <Key>
+      <PropertyRef Name="local_id" />
+    </Key>
+    <Property Name="local_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="_updated_at" Type="smalldatetime" />
+    <Property Name="code" Type="varchar(max)" />
+    <Property Name="group" Type="varchar(max)" />
+    <Property Name="is_applicable" Type="int" />
+    <Property Name="is_complete" Type="int" />
+    <Property Name="is_template" Type="int" />
+    <Property Name="name" Type="varchar(max)" />
+    <Property Name="site_id" Type="uniqueidentifier" />
+    <Property Name="sort_order" Type="int" />
+    <Property Name="status" Type="varchar(max)" />
+    <Property Name="sub_area_id" Type="uniqueidentifier" />
+    <Property Name="template_id" Type="uniqueidentifier" />
+    <Property Name="id" Type="uniqueidentifier" />
+    <Property Name="display_name" Type="varchar(max)" />
+  </EntityType>
+  <EntityType Name="jny_general">
+    <Key>
+      <PropertyRef Name="local_id" />
+    </Key>
+    <Property Name="local_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="_updated_at" Type="smalldatetime" />
+    <Property Name="code" Type="varchar(max)" />
+    <Property Name="data_type" Type="int" />
+    <Property Name="is_multichoice" Type="int" />
+    <Property Name="is_template" Type="int" />
+    <Property Name="name" Type="varchar(max)" />
+    <Property Name="options" Type="varchar(max)" />
+    <Property Name="site_id" Type="uniqueidentifier" />
+    <Property Name="sort_order" Type="int" />
+    <Property Name="template_id" Type="uniqueidentifier" />
+    <Property Name="value" Type="varchar(max)" />
+    <Property Name="id" Type="uniqueidentifier" />
+    <Property Name="display_name" Type="varchar(max)" />
+  </EntityType>
+  <EntityType Name="jny_material">
+    <Key>
+      <PropertyRef Name="local_id" />
+    </Key>
+    <Property Name="local_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="_updated_at" Type="smalldatetime" />
+    <Property Name="code" Type="varchar(max)" />
+    <Property Name="condition" Type="int" />
+    <Property Name="description" Type="varchar(max)" />
+    <Property Name="element_id" Type="uniqueidentifier" />
+    <Property Name="is_complete" Type="int" />
+    <Property Name="material_type_id" Type="uniqueidentifier" />
+    <Property Name="name" Type="varchar(max)" />
+    <Property Name="photo" Type="int" />
+    <Property Name="qty" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="qty_inspect" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="qty_no_action" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="qty_repair" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="qty_replace" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="qty_service" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="qty_upgrade" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="remarks" Type="varchar(max)" />
+    <Property Name="site_id" Type="uniqueidentifier" />
+    <Property Name="status" Type="varchar(max)" />
+    <Property Name="uom" Type="varchar(max)" />
+    <Property Name="id" Type="uniqueidentifier" />
+    <Property Name="display_name" Type="varchar(max)" />
+  </EntityType>
+  <EntityType Name="jny_photo_placeholder">
+    <Key>
+      <PropertyRef Name="local_id" />
+    </Key>
+    <Property Name="local_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="_updated_at" Type="smalldatetime" />
+    <Property Name="area_id" Type="uniqueidentifier" />
+    <Property Name="condition_id" Type="uniqueidentifier" />
+    <Property Name="element_id" Type="uniqueidentifier" />
+    <Property Name="material_id" Type="uniqueidentifier" />
+    <Property Name="site_id" Type="uniqueidentifier" />
+    <Property Name="sub_area_id" Type="uniqueidentifier" />
+    <Property Name="sync_site_id" Type="uniqueidentifier" />
+    <Property Name="latitude" Type="varchar(max)" />
+    <Property Name="longitude" Type="varchar(max)" />
+    <Property Name="altitude" Type="varchar(max)" />
+    <Property Name="horizontal-accuracy" Type="varchar(max)" />
+    <Property Name="vertical-accuracy" Type="varchar(max)" />
+    <Property Name="timestamp" Type="smalldatetime" />
+    <Property Name="time" Type="time" Precision="7" />
+    <Property Name="id" Type="uniqueidentifier" />
+    <Property Name="display_name" Type="varchar(max)" />
+    <Property Name="thumbnail" Type="varchar(max)" />
+    <Property Name="fullscreen" Type="varchar(max)" />
+    <Property Name="original" Type="varchar(max)" />
+    <Property Name="image_data" Type="varchar(max)" />
+    <Property Name="image_mime_type" Type="varchar(max)" />
+  </EntityType>
+  <EntityType Name="jny_site">
+    <Key>
+      <PropertyRef Name="local_id" />
+    </Key>
+    <Property Name="local_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="_updated_at" Type="smalldatetime" />
+    <Property Name="date_first" Type="smalldatetime" />
+    <Property Name="date_last" Type="smalldatetime" />
+    <Property Name="latitude" Type="varchar(max)" />
+    <Property Name="longitude" Type="varchar(max)" />
+    <Property Name="altitude" Type="varchar(max)" />
+    <Property Name="horizontal-accuracy" Type="varchar(max)" />
+    <Property Name="vertical-accuracy" Type="varchar(max)" />
+    <Property Name="timestamp" Type="smalldatetime" />
+    <Property Name="import_current" Type="int" />
+    <Property Name="import_total" Type="int" />
+    <Property Name="is_complete" Type="int" />
+    <Property Name="name" Type="varchar(max)" />
+    <Property Name="site_type" Type="int" />
+    <Property Name="sort_order" Type="int" />
+    <Property Name="worker_id" Type="uniqueidentifier" />
+    <Property Name="id" Type="uniqueidentifier" />
+    <Property Name="display_name" Type="varchar(max)" />
+  </EntityType>
+  <EntityType Name="jny_sub_area">
+    <Key>
+      <PropertyRef Name="local_id" />
+    </Key>
+    <Property Name="local_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="_updated_at" Type="smalldatetime" />
+    <Property Name="area_id" Type="uniqueidentifier" />
+    <Property Name="code" Type="varchar(max)" />
+    <Property Name="description" Type="varchar(max)" />
+    <Property Name="is_complete" Type="int" />
+    <Property Name="is_template" Type="int" />
+    <Property Name="name" Type="varchar(max)" />
+    <Property Name="site_id" Type="uniqueidentifier" />
+    <Property Name="sort_order" Type="int" />
+    <Property Name="status" Type="varchar(max)" />
+    <Property Name="template_id" Type="uniqueidentifier" />
+    <Property Name="id" Type="uniqueidentifier" />
+    <Property Name="display_name" Type="varchar(max)" />
+  </EntityType>
+  <EntityType Name="jny_worker">
+    <Key>
+      <PropertyRef Name="local_id" />
+    </Key>
+    <Property Name="local_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="_updated_at" Type="smalldatetime" />
+    <Property Name="current_area_id" Type="uniqueidentifier" />
+    <Property Name="current_condition_id" Type="uniqueidentifier" />
+    <Property Name="current_element_group_id" Type="uniqueidentifier" />
+    <Property Name="current_element_id" Type="uniqueidentifier" />
+    <Property Name="current_general_id" Type="uniqueidentifier" />
+    <Property Name="current_material_id" Type="uniqueidentifier" />
+    <Property Name="current_sub_area_id" Type="uniqueidentifier" />
+    <Property Name="name" Type="varchar(max)" />
+    <Property Name="next_previous" Type="int" />
+    <Property Name="id" Type="uniqueidentifier" />
+    <Property Name="display_name" Type="varchar(max)" />
+    <Property Name="enrolled" Type="varchar(max)" />
+    <Property Name="barcode" Type="varchar(max)" />
+    <Property Name="url" Type="varchar(max)" />
+  </EntityType>
+  <EntityContainer Name="FSSCDBIModelStoreContainer">
+    <EntitySet Name="jny_app" EntityType="Self.jny_app" Schema="jny" store:Type="Tables" />
+    <EntitySet Name="jny_area" EntityType="Self.jny_area" Schema="jny" store:Type="Tables" />
+    <EntitySet Name="jny_condition" EntityType="Self.jny_condition" Schema="jny" store:Type="Tables" />
+    <EntitySet Name="jny_element" EntityType="Self.jny_element" Schema="jny" store:Type="Tables" />
+    <EntitySet Name="jny_element_group" EntityType="Self.jny_element_group" Schema="jny" store:Type="Tables" />
+    <EntitySet Name="jny_general" EntityType="Self.jny_general" Schema="jny" store:Type="Tables" />
+    <EntitySet Name="jny_material" EntityType="Self.jny_material" Schema="jny" store:Type="Tables" />
+    <EntitySet Name="jny_photo_placeholder" EntityType="Self.jny_photo_placeholder" Schema="jny" store:Type="Tables" />
+    <EntitySet Name="jny_site" EntityType="Self.jny_site" Schema="jny" store:Type="Tables" />
+    <EntitySet Name="jny_sub_area" EntityType="Self.jny_sub_area" Schema="jny" store:Type="Tables" />
+    <EntitySet Name="jny_worker" EntityType="Self.jny_worker" Schema="jny" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
